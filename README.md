@@ -59,14 +59,6 @@
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/arush-naudiyal-8886a387/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Arush Naudiyal" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/froster02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - froster02" height="30" width="40" /></a>
-</p>
-
----
-
 ### 📫 How to Reach Me
 - 📧 Email: arushnaudiyal@gmail.com
 - 💼 LinkedIn: [Arush Naudiyal](https://www.linkedin.com/in/arush-naudiyal-8886a387/)
