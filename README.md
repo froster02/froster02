@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arush Naudiyal</h1>
+<h1 align="center">Hi 👋, My name is Arush Naudiyal</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
 <p align="center">
@@ -69,7 +69,7 @@
 ### 🌟 Projects
 - [**React textutility app**](https://github.com/froster02/movies-recommendation-system) 
 - [**Python movie recommendation app**](https://github.com/froster02/reactJS) 
-- [**Learning take CP**](https://github.com/froster02/Competitive-Programming-and-DSA) 
+- [**Learning take CP**](https://github.com/froster02/DS_Algo) 
 
 ---
 
