@@ -8,9 +8,10 @@
 ---
 
 ### About Me
-- 🔭 Currently working as a **Software Engineer at HSBC**
+- 🔭 Currently working as a **Software Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png" alt="HSBC" width="70" height="20"/>**
 - 🌱 Currently diving into **ReactJS** and **React Native**
 - 👨‍💻 Always learning and exploring new technologies
+- 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
 - ⚡ Fun Fact: I believe **continuous learning** is the key to growth!
 
 ---
@@ -27,11 +28,17 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
 
+  <!-- COBOL -->
   <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank">
     <img src="https://img.shields.io/badge/COBOL-FF7F50?style=for-the-badge&logo=data:image/png;base64,..." alt="COBOL" width="40" height="40"/>
   </a>
+
+  <!-- Easytrieve -->
   <a href="https://marketplace.visualstudio.com/items?itemName=BroadcomFD.easytrieve" target="_blank">
     <img src="https://img.shields.io/badge/Easytrieve-00BFFF?style=for-the-badge&logo=data:image/png;base64,..." alt="Easytrieve" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
   </a>
 </p>
 
@@ -78,3 +85,4 @@
 - Cloud Computing
 - AI and Machine Learning
 - Open Source Contribution
+- **Collaboration:** I’m always open to collaborating on interesting projects. Feel free to reach out!
