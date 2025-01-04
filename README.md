@@ -61,7 +61,7 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: arushnaudiyal@example.com
+- 📧 Email: arushnaudiyal@gmail.com
 - 💼 LinkedIn: [Arush Naudiyal](https://www.linkedin.com/in/arush-naudiyal-8886a387/)
 
 ---
