@@ -68,7 +68,7 @@
 
 ### 🌟 Projects
 - [**React textutility app**](https://github.com/froster02/movies-recommendation-system) 
-- [**Python move recommendation app**](https://github.com/froster02/reactJS) 
+- [**Python movie recommendation app**](https://github.com/froster02/reactJS) 
 - [**Learning take CP**](https://github.com/froster02/Competitive-Programming-and-DSA) 
 
 ---
