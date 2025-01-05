@@ -12,7 +12,7 @@
 - 🌱 Currently diving into **ReactJS** and **React Native**
 - 👨‍💻 Always learning and exploring new technologies
 - 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
-- ⚡ Fun Fact: I believe **continuous learning** is the key to growth!
+- ⚡ Fun Fact: I believe **continuous learning** and **coding daily** is the key to growth!
 
 ---
 
