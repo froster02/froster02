@@ -37,8 +37,65 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=BroadcomFD.easytrieve" target="_blank">
     <img src="https://img.shields.io/badge/Easytrieve-00BFFF?style=for-the-badge&logo=data:image/png;base64,..." alt="Easytrieve" width="40" height="40"/>
   </a>
+
+  <!-- ReactJS -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  </a>
+
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+
+  <!-- AWS CloudWatch -->
+<a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg" alt="AWS CloudWatch" width="40" height="40"/>
+</a>
+
+  <!-- pip -->
+  <a href="https://pypi.org/project/pip/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pip" width="40" height="40"/>
+  </a>
+
+  <!-- Android -->
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  </a>
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
@@ -55,6 +112,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical&hide_title=false&layout=compact" alt="Arush Naudiyal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froster02&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+### ⏳ WakaTime Stats
+<p align="center">
+  <img src="https://wakatime.com/badge/user/13cdbe77-08e8-4c8f-b3d7-2f0eb5a8923d.svg" alt="WakaTime Badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=froster02&layout=compact&theme=radical" alt="WakaTime Stats" />
 </p>
 
 ---
