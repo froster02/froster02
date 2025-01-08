@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- 🔭 Currently working as a **Software Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png" alt="HSBC" width="70" height="20"/>**
+- 🔭 Currently working as a **Software Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png" alt="HSBC" width="75" height="20"/>**
 - 🌱 Currently diving into **ReactJS** and **React Native**
 - 👨‍💻 Always learning and exploring new technologies
 - 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
