@@ -30,12 +30,12 @@
 
   <!-- COBOL -->
   <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank">
-    <img src="https://img.shields.io/badge/COBOL-FF7F50?style=for-the-badge&logo=data:image/png;base64,..." alt="COBOL" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/COBOL-FF7F50?style=for-the-badge&logo=data:image/png;base64,..." alt="COBOL" width="50" height="50"/>
   </a>
 
   <!-- Easytrieve -->
   <a href="https://marketplace.visualstudio.com/items?itemName=BroadcomFD.easytrieve" target="_blank">
-    <img src="https://img.shields.io/badge/Easytrieve-00BFFF?style=for-the-badge&logo=data:image/png;base64,..." alt="Easytrieve" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Easytrieve-00BFFF?style=for-the-badge&logo=data:image/png;base64,..." alt="Easytrieve" width="50" height="50"/>
   </a>
 
   <!-- ReactJS -->
