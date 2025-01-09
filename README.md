@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Arush Naudiyal</h1>
+<h1 align="center">Namaste 🙏 ,  My name is Arush Naudiyal</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
 <p align="center">
