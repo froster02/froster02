@@ -102,8 +102,8 @@
 ---
 
 ### 📈 LeetCode Stats
-- 🏆 **Problems Solved:** 222+  
-- 📋 **Total Submissions:** 569+  
+- 🏆 **Problems Solved:** 260+  
+- 📋 **Total Submissions:** 675+  
 - 🔗 **Profile:** [View My LeetCode Profile](https://leetcode.com/u/froster02/)
 
 ---
