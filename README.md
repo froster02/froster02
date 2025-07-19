@@ -13,6 +13,7 @@
 - 👨‍💻 Always learning and exploring new technologies
 - 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
 - ⚡ Fun Fact: I believe **continuous learning** and **coding daily** is the key to growth!
+- Resume : #https://drive.google.com/file/d/1Fosbz0qRBEQVugJXmeEZwtbDiwOWYfYo/view?usp=sharing
 
 ---
 
