@@ -9,7 +9,7 @@
 
 ### About Me
 - 🔭 Currently working as a **Senior Software Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png" alt="HSBC" width="62" height="17"/>**
-- 🌱 Currently diving into **ReactJS** and **React Native** and **API's**
+- 🌱 Currently diving into **Springboot** and **Java** and **RestAPI's**
 - 👨‍💻 Always learning and exploring new technologies
 - 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
 - ⚡ Fun Fact: I believe **continuous learning** and **coding daily** is the key to growth!
@@ -104,8 +104,8 @@
 ---
 
 ### 📈 LeetCode Stats
-- 🏆 **Problems Solved:** 310+  
-- 📋 **Total Submissions:** 830+  
+- 🏆 **Problems Solved:** 360+  
+- 📋 **Total Submissions:** 1.1k+  
 - 🔗 **Profile:** [View My LeetCode Profile](https://leetcode.com/u/froster02/)
 
 ---
