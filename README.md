@@ -1,5 +1,7 @@
 <h1 align="center">Namaste 🙏 ,  My name is Arush Naudiyal</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast+(360%2B+LeetCode);Building+Scalable+Systems;Always+Learning+New+Tech&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arushnaudiyal&label=Profile%20views&color=0e75b6&style=flat" alt="arushnaudiyal" />
@@ -19,81 +21,22 @@
 ---
 
 ### 🛠️ Skills and Tools
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
+<p align="center">
 
-  <!-- COBOL -->
-  <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank">
-    <img src="https://img.shields.io/badge/COBOL-FF7F50?style=for-the-badge&logo=data:image/png;base64,..." alt="COBOL" width="50" height="50"/>
-  </a>
+<strong>Languages</strong><br/> <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 
-  <!-- Easytrieve -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=BroadcomFD.easytrieve" target="_blank">
-    <img src="https://img.shields.io/badge/Easytrieve-00BFFF?style=for-the-badge&logo=data:image/png;base64,..." alt="Easytrieve" width="50" height="50"/>
-  </a>
+<br/>
 
-  <!-- ReactJS -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  </a>
+<strong>Frontend</strong><br/> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>
+<br/>
 
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<strong>Backend & Tools</strong><br/> <img src="https://skillicons.dev/icons?i=nodejs,spring,mongodb,mysql,git,github,vscode,aws" />
 
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
+<br/>
 
-  <!-- AWS CloudWatch -->
-<a href="https://aws.amazon.com/cloudwatch/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg" alt="AWS CloudWatch" width="40" height="40"/>
-</a>
+<strong>Other</strong><br/> <img src="https://skillicons.dev/icons?i=flask,firebase,jenkins" />
 
-  <!-- pip -->
-  <a href="https://pypi.org/project/pip/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pip" width="40" height="40"/>
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -137,9 +80,9 @@
 
 ---
 
-### 🚀 Interests
-- Web Development
-- Cloud Computing
-- AI and Machine Learning
-- Open Source Contribution
-- **Collaboration:** I’m always open to collaborating on interesting projects. Feel free to reach out!
+### 🧠 Mindset
+
+* Consistency > Motivation
+* Focus on fundamentals
+* Learn → Build → Improve → Repeat 🚀
+
