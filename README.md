@@ -15,7 +15,7 @@
 - 👨‍💻 Always learning and exploring new technologies
 - 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
 - ⚡ Fun Fact: I believe **continuous learning** and **coding daily** is the key to growth!
-- 📎 Resume: [View My Resume]([https://drive.google.com/file/d/1olAg5Ku4sJv4q9sn_saU-E-WWnuoIIaW/view?usp=sharing](https://drive.google.com/file/d/1-vqIcorBbtlWVnL0ZU9elieDNcNAAWgN/view?usp=sharing))
+- 📎 Resume: [View My Resume](https://drive.google.com/file/d/1-vqIcorBbtlWVnL0ZU9elieDNcNAAWgN/view?usp=sharing)
 - 💼 Portfolio : [Portfolio](https://froster02.github.io/portfolio/)
 
 ---
