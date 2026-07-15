@@ -43,7 +43,9 @@
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/froster02?theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/froster02/">
+    <img src="https://leetcard.jacoblin.cool/froster02?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center">
@@ -54,8 +56,22 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical&hide_title=false&layout=compact" alt="Arush Naudiyal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froster02&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Arush Naudiyal's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froster02&locale=en&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com/?user=froster02&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=froster02&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=froster02&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
