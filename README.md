@@ -42,9 +42,13 @@
 ---
 
 ### 📈 LeetCode Stats
-- 🏆 **Problems Solved:** 432+  
-- 📋 **Total Submissions:** 1.4k+  
-- 🔗 **Profile:** [View My LeetCode Profile](https://leetcode.com/u/froster02/)
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/froster02?theme=dark" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/froster02/">🔗 View My LeetCode Profile</a>
+</p>
 
 ---
 
