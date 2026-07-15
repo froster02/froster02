@@ -58,12 +58,17 @@
 
 ### ⏳ WakaTime Stats
 <p align="center">
-  <img src="https://wakatime.com/badge/user/13cdbe77-08e8-4c8f-b3d7-2f0eb5a8923d.svg" alt="WakaTime Badge" />
+  <a href="https://wakatime.com/@froster02">
+    <img src="https://wakatime.com/badge/user/13cdbe77-08e8-4c8f-b3d7-2f0eb5a8923d.svg" alt="WakaTime Badge" />
+  </a>
 </p>
 
+<!-- Optional: This card often fails unless username matches exactly and public share is enabled -->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=froster02&layout=compact&theme=radical" alt="WakaTime Stats" />
 </p>
+-->
 
 ---
 
@@ -77,6 +82,8 @@
 - [**React textutility app**](https://github.com/froster02/reactJS)
 - [**Python movie recommendation app**](https://github.com/froster02/movies-recommendation-system)
 - [**Learning take CP**](https://github.com/froster02/DS_Algo)
+- [**LeetCode Galaxy**](https://github.com/froster02/leetcode-galaxy)
+- [**LeetCode Tracker**](https://github.com/froster02/leetcode-tracker)
 
 ---
 
