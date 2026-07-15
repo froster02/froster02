@@ -4,19 +4,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arushnaudiyal&label=Profile%20views&color=0e75b6&style=flat" alt="arushnaudiyal" />
+  <img src="https://komarev.com/ghpvc/?username=froster02&label=Profile%20views&color=0e75b6&style=flat" alt="froster02" />
 </p>
 
 ---
 
 ### About Me
-- 🔭 Currently working as a **Senior Software Engineer at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/1280px-HSBC_logo_%282018%29.svg.png" alt="HSBC" width="62" height="17"/>**
-- 🌱 Currently diving into **Springboot** and **Java** and **RestAPI's**
+- 🔭 Currently working as a **Senior Software Engineer at HSBC**
+- 🌱 Currently diving into **Spring Boot**, **Java**, and **REST APIs**
 - 👨‍💻 Always learning and exploring new technologies
 - 👯 **Looking to collaborate** on **open-source projects** and **development initiatives**
 - ⚡ Fun Fact: I believe **continuous learning** and **coding daily** is the key to growth!
 - 📎 Resume: [View My Resume](https://drive.google.com/file/d/1-vqIcorBbtlWVnL0ZU9elieDNcNAAWgN/view?usp=sharing)
-- 💼 Portfolio : [Portfolio](https://froster02.github.io/portfolio/)
+- 💼 Portfolio: [Portfolio](https://froster02.github.io/portfolio/)
 
 ---
 
@@ -74,9 +74,9 @@
 ---
 
 ### 🌟 Projects
-- [**React textutility app**](https://github.com/froster02/movies-recommendation-system) 
-- [**Python movie recommendation app**](https://github.com/froster02/reactJS) 
-- [**Learning take CP**](https://github.com/froster02/DS_Algo) 
+- [**React textutility app**](https://github.com/froster02/reactJS)
+- [**Python movie recommendation app**](https://github.com/froster02/movies-recommendation-system)
+- [**Learning take CP**](https://github.com/froster02/DS_Algo)
 
 ---
 
@@ -85,4 +85,3 @@
 * Consistency > Motivation
 * Focus on fundamentals
 * Learn → Build → Improve → Repeat 🚀
-
