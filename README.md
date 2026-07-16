@@ -63,10 +63,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical" alt="Arush Naudiyal's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=froster02&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://streak-stats.demolab.com/?user=froster02&theme=radical" alt="GitHub Streak" />
 </p>
 
