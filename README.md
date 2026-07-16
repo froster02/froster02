@@ -7,6 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=froster02&label=Profile%20views&color=0e75b6&style=flat" alt="froster02" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/arush-naudiyal-8886a387/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:arushnaudiyal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://leetcode.com/u/froster02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://froster02.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+</p>
+
 ---
 
 ### About Me
@@ -43,7 +50,9 @@
 
 ### 📈 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/froster02?theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/froster02/">
+    <img src="https://leetcard.jacoblin.cool/froster02?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center">
@@ -54,8 +63,38 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical&hide_title=false&layout=compact" alt="Arush Naudiyal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froster02&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical" alt="Arush Naudiyal's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=froster02&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com/?user=froster02&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=froster02&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=froster02&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/froster02/froster02/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/froster02/froster02/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
