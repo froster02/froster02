@@ -56,10 +56,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Arush Naudiyal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=froster02&show_icons=true&theme=radical" alt="Arush Naudiyal's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=froster02&locale=en&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=froster02&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://streak-stats.demolab.com/?user=froster02&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -71,7 +71,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=froster02&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=froster02&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
