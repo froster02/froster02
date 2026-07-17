@@ -81,11 +81,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/froster02/froster02/pull/1) in [froster02/froster02](https://github.com/froster02/froster02)
-2. 💪 Opened PR [#1](https://github.com/froster02/froster02/pull/1) in [froster02/froster02](https://github.com/froster02/froster02)
-3. 🎉 Merged PR [#3](https://github.com/froster02/LCTracker/pull/3) in [froster02/LCTracker](https://github.com/froster02/LCTracker)
-4. 💪 Opened PR [#3](https://github.com/froster02/LCTracker/pull/3) in [froster02/LCTracker](https://github.com/froster02/LCTracker)
-5. 🎉 Merged PR [#2](https://github.com/froster02/LCTracker/pull/2) in [froster02/LCTracker](https://github.com/froster02/LCTracker)
+1. 🎉 Merged PR [#26](https://github.com/froster02/leetcode-galaxy/pull/26) in [froster02/leetcode-galaxy](https://github.com/froster02/leetcode-galaxy)
+2. 💪 Opened PR [#26](https://github.com/froster02/leetcode-galaxy/pull/26) in [froster02/leetcode-galaxy](https://github.com/froster02/leetcode-galaxy)
+3. 🎉 Merged PR [#1](https://github.com/froster02/froster02/pull/1) in [froster02/froster02](https://github.com/froster02/froster02)
+4. 💪 Opened PR [#1](https://github.com/froster02/froster02/pull/1) in [froster02/froster02](https://github.com/froster02/froster02)
+5. 🎉 Merged PR [#3](https://github.com/froster02/LCTracker/pull/3) in [froster02/LCTracker](https://github.com/froster02/LCTracker)
 <!--END_SECTION:activity-->
 
 ---
