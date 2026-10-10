@@ -81,7 +81,7 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/froster02/leetcode-galaxy/pull/26) in [froster02/leetcode-galaxy](https://github.com/froster02/leetcode-galaxy)
+1. 💪 Opened PR [#27](https://github.com/froster02/leetcode-galaxy/pull/27) in [froster02/leetcode-galaxy](https://github.com/froster02/leetcode-galaxy)
 2. 💪 Opened PR [#26](https://github.com/froster02/leetcode-galaxy/pull/26) in [froster02/leetcode-galaxy](https://github.com/froster02/leetcode-galaxy)
 3. 🎉 Merged PR [#1](https://github.com/froster02/froster02/pull/1) in [froster02/froster02](https://github.com/froster02/froster02)
 4. 💪 Opened PR [#1](https://github.com/froster02/froster02/pull/1) in [froster02/froster02](https://github.com/froster02/froster02)
